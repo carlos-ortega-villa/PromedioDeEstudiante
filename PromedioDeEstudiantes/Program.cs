@@ -26,7 +26,7 @@ namespace PromedioDeEstudiantes
             Console.WriteLine( );
             if (definitivaDeNotas >= 3)
             {
-                Console.Write($"|||El estudiante gano,Su nota definitiva es: {definitivaDeNotas}|||");
+                Console.Write($"|||El estudiante gano ,Su nota definitiva es: {definitivaDeNotas}|||");
             }
             else
             {
